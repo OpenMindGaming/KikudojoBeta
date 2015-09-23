@@ -1,0 +1,77 @@
+﻿{"frames": [
+
+{
+	"filename": "roller instance 10000",
+	"frame": {"x":0,"y":0,"w":174,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":171},
+	"sourceSize": {"w":174,"h":171}
+}
+,{
+	"filename": "roller instance 20000",
+	"frame": {"x":174,"y":0,"w":174,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":171},
+	"sourceSize": {"w":174,"h":171}
+}
+,{
+	"filename": "roller instance 30000",
+	"frame": {"x":348,"y":0,"w":165,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":195},
+	"sourceSize": {"w":165,"h":195}
+}
+,{
+	"filename": "roller instance 40000",
+	"frame": {"x":513,"y":0,"w":171,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":173},
+	"sourceSize": {"w":171,"h":173}
+}
+,{
+	"filename": "roller instance 50000",
+	"frame": {"x":684,"y":0,"w":194,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":194,"h":165},
+	"sourceSize": {"w":194,"h":165}
+}
+,{
+	"filename": "roller instance 60000",
+	"frame": {"x":878,"y":0,"w":174,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":171},
+	"sourceSize": {"w":174,"h":171}
+}
+,{
+	"filename": "roller instance 70000",
+	"frame": {"x":1052,"y":0,"w":165,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":195},
+	"sourceSize": {"w":165,"h":195}
+}
+,{
+	"filename": "roller instance 80000",
+	"frame": {"x":1217,"y":0,"w":171,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":174},
+	"sourceSize": {"w":171,"h":174}
+}],
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"Target": "Edge Animate",
+	"Target Version": "4.0",
+	"image": "sprite sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1400,"h":200},
+	"scale": "1"
+}
+}

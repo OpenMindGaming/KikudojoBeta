@@ -1,0 +1,150 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="12" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" guidesSnapTo="false" snapAlign="false" objectsSnapTo="false" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <media/>
+     <symbols>
+          <Include href="1.xml" loadImmediate="false" itemID="5310dec2-00000200" lastModified="1393614530"/>
+          <Include href="2.xml" loadImmediate="false" itemID="5310dec9-00000202" lastModified="1393614537"/>
+          <Include href="3.xml" loadImmediate="false" itemID="5310decf-00000206" lastModified="1393614543"/>
+          <Include href="4.xml" loadImmediate="false" itemID="5310deda-0000020a" lastModified="1393614554"/>
+          <Include href="5.xml" loadImmediate="false" itemID="5310dedf-0000020e" lastModified="1393614559"/>
+          <Include href="6.xml" loadImmediate="false" itemID="5310dee6-00000212" lastModified="1393614566"/>
+          <Include href="7.xml" loadImmediate="false" itemID="5310deec-00000216" lastModified="1393614572"/>
+          <Include href="8.xml" loadImmediate="false" itemID="5310def2-0000021a" lastModified="1393614579"/>
+          <Include href="9.xml" loadImmediate="false" itemID="5310def8-0000021e" lastModified="1393614584"/>
+          <Include href="10.xml" loadImmediate="false" itemID="5310deff-00000222" lastModified="1393614591"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="9">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="1" centerPoint3DX="250.35" centerPoint3DY="194.7">
+                                             <matrix>
+                                                  <Matrix tx="29.35" ty="64.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="221" y="129.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="2" centerPoint3DX="264.35" centerPoint3DY="223.9">
+                                             <matrix>
+                                                  <Matrix tx="29.35" ty="63.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="235" y="160.4"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="3" centerPoint3DX="271.85" centerPoint3DY="189.4">
+                                             <matrix>
+                                                  <Matrix tx="29.35" ty="13.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="242.5" y="175.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="4" centerPoint3DX="270.35" centerPoint3DY="177.25">
+                                             <matrix>
+                                                  <Matrix tx="29.35" ty="25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="241" y="152.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="5" centerPoint3DX="255.85" centerPoint3DY="189.4">
+                                             <matrix>
+                                                  <Matrix tx="29.35" ty="45.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="226.5" y="143.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="6" centerPoint3DX="275.35" centerPoint3DY="205.05">
+                                             <matrix>
+                                                  <Matrix tx="29.35" ty="64.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="246" y="140.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="7" centerPoint3DX="265.85" centerPoint3DY="178.6">
+                                             <matrix>
+                                                  <Matrix tx="29.35" ty="64.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="236.5" y="113.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="8" centerPoint3DX="275.35" centerPoint3DY="178.6">
+                                             <matrix>
+                                                  <Matrix tx="29.35" ty="64.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="246" y="113.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="9" centerPoint3DX="266.85" centerPoint3DY="184.6">
+                                             <matrix>
+                                                  <Matrix tx="29.35" ty="64.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="237.5" y="119.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="10" centerPoint3DX="252.85" centerPoint3DY="181.6">
+                                             <matrix>
+                                                  <Matrix tx="29.35" ty="64.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="223.5" y="116.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="17585" publishTime="1393614422"/>
+          <PublishItem publishSize="17587" publishTime="1393614384"/>
+     </publishHistory>
+</DOMDocument>

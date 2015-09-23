@@ -1,0 +1,10 @@
+Hey, so first off, here is the order (from back to front) in which the things should go:
+sky
+back clouds
+back_F
+front clouds
+mid_F
+front_F
+Secondly, I have absolutely no idea what is an optimal size for these textures. 
+If you need them to be significantly smaller/larger, let me know. 
+Thirdly, Kieth is a tool. 

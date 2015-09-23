@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="star" itemID="53095860-000001f0" lastModified="1393121376">
+  <timeline>
+    <DOMTimeline name="star">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!41 37S2|56 0!56 0|68 39!68 39|109 42!109 42|75 65!75 65|85 104!85 104|52 80!52 80|18 101!18 101|31 63!31 63|0 36!0 36|41 37"/>
+                    <Edge cubics="!0 36(;0,36 41,37 41,37q0 36 41 37);"/>
+                    <Edge cubics="!31 63(;31,63 0,36 0,36q31 63 0 36);"/>
+                    <Edge cubics="!18 101(18,101;18,101 31,63 31,63q18 101 31 63);"/>
+                    <Edge cubics="!109 42(;109,42 75,65 75,65q109 42 75 65);"/>
+                    <Edge cubics="!68 39(;68,39 109,42 109,42q68 39 109 42);"/>
+                    <Edge cubics="!56 0(;56,0 68,39 68,39q56 0 68 39);"/>
+                    <Edge cubics="!85 104(;85,104 52,80 52,80q85 104 52 80);"/>
+                    <Edge cubics="!75 65(;75,65 85,104 85,104q75 65 85 104);"/>
+                    <Edge cubics="!52 80(;52,80 18,101 18,101q52 80 18 101);"/>
+                    <Edge cubics="!41 37(;41,37 56,0 56,0q41 37 56 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

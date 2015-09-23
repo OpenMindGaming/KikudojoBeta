@@ -1,0 +1,130 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" guidesSnapTo="false" snapAlign="false" objectsSnapTo="false" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true">
+     <media>
+          <DOMBitmapItem name="Bitmap 1" itemID="53093545-000001de" sourceExternalFilepath="../Logo_draft_1/LIBRARY/Bitmap 1" sourceLastImported="1393112389" originalCompressionType="lossless" quality="50" href="Bitmap 1" bitmapDataHRef="M 1 1393112389.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+     </media>
+     <symbols>
+          <Include href="flag.xml" loadImmediate="false" itemID="53095a7b-00000217" lastModified="1393121915"/>
+          <Include href="kiku_logo_draft2.xml" loadImmediate="false" itemID="53095e40-00000229" lastModified="1393626870"/>
+          <Include href="star.xml" loadImmediate="false" itemID="53095860-000001f0" lastModified="1393121376"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="kiku_logo_draft2" selected="true" centerPoint3DX="269.35" centerPoint3DY="197.2">
+                                             <matrix>
+                                                  <Matrix tx="79.75" ty="7.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="189.65" y="189.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="flag" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4FFF4F">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

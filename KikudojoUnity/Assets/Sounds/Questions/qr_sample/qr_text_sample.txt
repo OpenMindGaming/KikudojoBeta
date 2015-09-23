@@ -1,0 +1,66 @@
+1.	Q: Have you already talked to your brother?
+(A)	Yes, we talked on the phone yesterday.
+(B)	Yes, we will talk later today.
+(C)	No, we talked at dinner earlier today.
+
+Answer: A
+
+訳文: もうあなたの兄(または弟)に話しましたか？ (A) はい、昨日電話で話しました。 (B) はい、今日後で話します。 (C) いいえ、今日夕飯の席で話しました。  解説: 「もう兄（または弟）に話したか」を聞いている。過去完了形の＜現在までの経験＞が使われているので(B)will talkの未来形は当てはまらない。 答え: A
+2.	Q: Do you play tennis and also dance?
+(A)	Yes, I like to play baseball.
+(B)	No, I play tennis but I don't dance.
+(C)	Yes, I play baseball and I dance.
+
+Answer: B
+
+訳文:　テニスやダンスをしますか？
+はい、私は野球をするのが好きです。
+いいえ、テニスはしますがダンスはしません。
+はい、野球やダンスをします。
+解説:　 聞かれていることだけに答える。ここでは「テニス」と「ダン　
+　　　　ス」がトピック。
+答え:　B
+
+3.	Q: Were you at the party last night?
+(A)	Yes, I was there two days ago.
+(B)	No, I won't be there tonight.
+(C)	Yes, I got there around 7 p.m.
+
+Answer: C
+
+訳文:　昨夜パーティにいましたか？
+はい、２日前にいました。
+いいえ、今夜は行けません。
+はい、午後７時頃着きました。
+解説:　時制は過去「きのう」、質問は「パーティーにいたかどうか」。
+答え:　C
+
+4.	Q:  Who enjoys cake?　
+(A)	We don't like birthday parties.
+(B)	I do. I love it.
+(C)	I baked the cake.
+
+Answer: B
+
+訳文:　ケーキが好きなのは誰ですか？
+私達は誕生日会が好きではありません。
+私です。私は大好きです。
+そのケーキを焼きました。
+解説:　トピックはwho「誰」がケーキを好きか。
+答え:　B
+
+5.	Q: Where is the English school located?
+(A)	It's just down the street.
+(B)	It's an old building.
+(C)	It was just over there.
+
+Answer: A
+
+訳文:　英語学校はどこに位置していますか？
+この道を行ったところです。
+それは古いビルです。
+あそこにありました。
+解説:　 locate「位置する」。学校の位置を尋ねている。
+答え:　A
+
+
